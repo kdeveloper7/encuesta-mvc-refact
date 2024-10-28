@@ -104,7 +104,7 @@
         }
         ?>
 
-        <a href="register.php" class="register-link">Registrarse</a>
+        <a href="./register.php" class="register-link">Registrarse</a>
     </div>
 
     <script src="../static/js/script.js"></script>
